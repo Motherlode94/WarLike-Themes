@@ -1,0 +1,8 @@
+/* Opt-in only. No application-wide selectors or geometry. */
+.wlt-surface{background-color:var(--wlt-surface);color:var(--wlt-fg);border-color:var(--wlt-border)}
+.wlt-muted{color:var(--wlt-fg-muted)}
+.wlt-input{background-color:var(--wlt-input);color:var(--wlt-fg);border-color:var(--wlt-border)}
+.wlt-primary{background-color:var(--wlt-accent);color:var(--wlt-accent-contrast);border-color:var(--wlt-accent)}
+.wlt-selected{background-color:var(--wlt-selected);color:var(--wlt-fg)}
+.wlt-focus:focus-visible{outline:2px solid var(--wlt-focus);outline-offset:2px}
+.wlt-success{color:var(--wlt-success)}.wlt-warning{color:var(--wlt-warning)}.wlt-danger{color:var(--wlt-danger)}
