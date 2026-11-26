@@ -1,0 +1,1 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';test('portal uses independent sections and local source styles',()=>{const h=readFileSync(new URL('../index.html',import.meta.url),'utf8');assert.match(h,/src\/themes.css/);for(const id of ['tokens','apps','guide'])assert.match(h,new RegExp('id="'+id+'" hidden'));});
