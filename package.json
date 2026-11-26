@@ -1,0 +1,15 @@
+{
+  "name": "@warlike/themes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/build.mjs --check && node --test"
+  },
+  "exports": {
+    ".": "./src/theme.js",
+    "./themes.css": "./src/themes.css",
+    "./components.css": "./src/components.css"
+  }
+}

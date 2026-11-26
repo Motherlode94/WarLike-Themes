@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "repository": "Warlike-Browser",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Engine",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Studio",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Mail",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Server",
+      "mode": "service-review",
+      "status": "pending"
+    },
+    {
+      "repository": "CodeDuo-Academy",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Modeliser",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Hub",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Crypte",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-PDF",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Radio",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Chat",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Monteur",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Node",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-MISC",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Library",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Asset-Stores",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Android-Hub",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-OSA",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-OSW",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Ebook",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Tower",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Online",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Heart",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Rig-Studio",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Virtual-Idols",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Academy",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Business",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-HelianA",
+      "mode": "education",
+      "status": "pending"
+    },
+    {
+      "repository": "W-Visual-Code",
+      "mode": "specialized",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Records",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-MCP",
+      "mode": "service-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Control-Center",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Networks",
+      "mode": "service-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Telecom",
+      "mode": "service-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarScripts",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarWebAssembly",
+      "mode": "web-review",
+      "status": "pending"
+    },
+    {
+      "repository": "WarLike-Themes",
+      "mode": "web-review",
+      "status": "source"
+    }
+  ]
+}
